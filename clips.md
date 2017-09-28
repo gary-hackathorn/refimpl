@@ -9,6 +9,7 @@
 
 # Jenkins
 [create plugins](https://github.com/jenkinsci/pipeline-plugin/blob/master/DEVGUIDE.md)
+[pipeline unit tests](https://github.com/lesfurets/JenkinsPipelineUnit)
 
 # MTG
 
