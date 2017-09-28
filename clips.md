@@ -11,6 +11,8 @@
 # Jenkins
 [create plugins](https://github.com/jenkinsci/pipeline-plugin/blob/master/DEVGUIDE.md)
 
+[input pipeline source code](https://github.com/jenkinsci/pipeline-input-step-plugin/tree/master/src/main/resources/org/jenkinsci/plugins/workflow/support/steps/input/InputStep
+
 [pipeline unit tests](https://github.com/lesfurets/JenkinsPipelineUnit)
 
 # MTG
