@@ -5,10 +5,12 @@
 # Maven 
 
 [Profiles](http://maven.apache.org/guides/introduction/introduction-to-profiles.html)
+
 [Versioning and Snapshots](http://kylelieber.com/2012/06/maven-versioning-strategy/)
 
 # Jenkins
 [create plugins](https://github.com/jenkinsci/pipeline-plugin/blob/master/DEVGUIDE.md)
+
 [pipeline unit tests](https://github.com/lesfurets/JenkinsPipelineUnit)
 
 # MTG
