@@ -15,6 +15,8 @@
 
 [pipeline unit tests](https://github.com/lesfurets/JenkinsPipelineUnit)
 
+[Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
+
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
