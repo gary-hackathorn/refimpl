@@ -17,6 +17,9 @@
 
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
+# Groovy
+[Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
+
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
