@@ -17,6 +17,8 @@
 
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
+[Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)
+
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
 
