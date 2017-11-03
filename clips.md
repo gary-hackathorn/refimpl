@@ -18,6 +18,7 @@
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
 [Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)
+[Why Jobs show as Suspended](https://support.cloudbees.com/hc/en-us/articles/204690520-Why-do-agents-show-as-suspended-while-jobs-wait-in-the-queue-)
 
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
