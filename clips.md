@@ -26,6 +26,9 @@
 
 [GitHub Integration:Webhooks](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
 
+# CICD & Snapshots
+[Maven and the Jenkins Pipeline](https://www.cloudbees.com/blog/new-way-do-continuous-delivery-maven-and-jenkins-pipeline)
+
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
 
