@@ -40,3 +40,11 @@
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
+
+# DevOps Practices
+
+[Convert Freestyle Jobs to Pipeline Jobs](http://join.cloudbees.com/e/272242/enkins-jobs-to-coded-pipeline-/78l59/67567434)
+
+[DZone article about Continou Delievery and Jenkins](https://dzone.com/articles/jenkins-pipeline-for-continuous-delivery-and-deplo)
+
+[The Ten Commandments of Continuous Delivery Video](http://join.cloudbees.com/e/272242/watch-v-fD3P51Yv6so/78l7f/67567434)
