@@ -48,3 +48,6 @@
 [DZone article about Continou Delievery and Jenkins](https://dzone.com/articles/jenkins-pipeline-for-continuous-delivery-and-deplo)
 
 [The Ten Commandments of Continuous Delivery Video](http://join.cloudbees.com/e/272242/watch-v-fD3P51Yv6so/78l7f/67567434)
+
+# git
+[git rebase](http://think-like-a-git.net/sections/rebase-from-the-ground-up/using-git-cherry-pick-to-simulate-git-rebase.html)
