@@ -51,3 +51,7 @@
 
 # git
 [git rebase](http://think-like-a-git.net/sections/rebase-from-the-ground-up/using-git-cherry-pick-to-simulate-git-rebase.html)
+
+#Android SDK
+[Android SDKManager Offline](https://androidsdkoffline.blogspot.com/p/android-sdk-build-tools.html)
+
