@@ -14,7 +14,7 @@
 [Versioning and Snapshots](http://kylelieber.com/2012/06/maven-versioning-strategy/)
 
 # Jenkins
-[create plugins](https://github.com/jenkinsci/pipeline-plugin/blob/master/DEVGUIDE.md)
+[Developer Guide for writing custom plugins](https://jenkins.io/doc/developer/plugin-development/pipeline-integration/)
 
 [input pipeline source code](https://github.com/jenkinsci/pipeline-input-step-plugin/tree/master/src/main/resources/org/jenkinsci/plugins/workflow/support/steps/input/InputStep)
 
