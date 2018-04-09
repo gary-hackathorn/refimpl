@@ -56,3 +56,5 @@
 # Android SDK
 [Android SDKManager Offline](https://androidsdkoffline.blogspot.com/p/android-sdk-build-tools.html)
 
+# JAVA Mac OS X 
+[Install Java 8 and multiple versions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
