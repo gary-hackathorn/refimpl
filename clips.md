@@ -22,7 +22,7 @@
 
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
-[Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)ug
+[Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)
 [More Pipeline Plugins](https://plugins.jenkins.io/workflow-aggregator)
 
 [Pipeline Build Steps](https://jenkins.io/doc/pipeline/steps/pipeline-build-step/)
@@ -58,4 +58,4 @@
 
 # JAVA Mac OS X 
 [Install Java 8 and multiple versions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
-[multiple versions of Java](https://dzone.com/articles/multiple-versions-java-os-x)
+[Multiple versions of Java](https://dzone.com/articles/multiple-versions-java-os-x)
