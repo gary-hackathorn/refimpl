@@ -23,6 +23,7 @@
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
 [Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)
+
 [More Pipeline Plugins](https://plugins.jenkins.io/workflow-aggregator)
 
 [Pipeline Build Steps](https://jenkins.io/doc/pipeline/steps/pipeline-build-step/)
@@ -51,6 +52,7 @@
 
 # git
 [git rebase](http://think-like-a-git.net/sections/rebase-from-the-ground-up/using-git-cherry-pick-to-simulate-git-rebase.html)
+
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
 # Android SDK
