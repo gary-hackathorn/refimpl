@@ -32,6 +32,11 @@
 
 [GitHub Integration:Webhooks](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
 
+## Credentials
+[Types of Jenkis Credentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs)
+
+[Example of Secret File in Groovy](https://gist.github.com/jdennaho/92c66f7880a5ba9c39d090e6b5a52e37)
+
 # CICD & Snapshots
 [Maven and the Jenkins Pipeline](https://www.cloudbees.com/blog/new-way-do-continuous-delivery-maven-and-jenkins-pipeline)
 
