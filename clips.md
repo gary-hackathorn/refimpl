@@ -76,3 +76,10 @@
 #SED Stream EDitor
 [Basics of SEC in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux}
 
+# SonarQube 
+[SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS)
+
+[Sonar Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner)
+
+[Sonar Scanner Advanced Usage](https://docs.sonarqube.org/display/SCAN/Advanced+SonarQube+Scanner+Usages
+)
