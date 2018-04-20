@@ -32,6 +32,8 @@
 
 [GitHub Integration:Webhooks](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
 
+[Declarative Pipeline Exaples] (https://github.com/jenkinsci/pipeline-examples/tree/master/declarative-examples/simple-examples)
+
 ## Credentials
 [Types of Jenkis Credentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs)
 
