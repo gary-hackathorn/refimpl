@@ -34,6 +34,8 @@
 
 [Declarative Pipeline Examples](https://github.com/jenkinsci/pipeline-examples/tree/master/declarative-examples/simple-examples)
 
+[GDSL with IntelliJ](https://gist.github.com/arehmandev/736daba40a3e1ef1fbe939c6674d7da8)
+
 ## Credentials
 [Types of Jenkis Credentials](https://support.cloudbees.com/hc/en-us/articles/203802500-Injecting-Secrets-into-Jenkins-Build-Jobs)
 
