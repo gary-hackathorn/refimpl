@@ -89,4 +89,6 @@
 )
 
 # DynaTrace
-[Monitor a batch job](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
+[Monitor a batch job Videos](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
+[Creating Custom Entry Points](https://www.dynatrace.com/news/blog/easily-configure-detection-environments-custom-application-services/)
+
