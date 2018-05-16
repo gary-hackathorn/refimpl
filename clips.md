@@ -87,3 +87,6 @@
 
 [Sonar Scanner Advanced Usage](https://docs.sonarqube.org/display/SCAN/Advanced+SonarQube+Scanner+Usages
 )
+
+# DynaTrace
+[Monitor a batch job](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
