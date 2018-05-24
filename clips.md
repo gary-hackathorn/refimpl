@@ -95,3 +95,6 @@
 [Monitor a batch job Videos](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
 [Creating Custom Entry Points](https://www.dynatrace.com/news/blog/easily-configure-detection-environments-custom-application-services/)
 
+# Google App Engine
+[Sample Apps](https://cloud.google.com/appengine/docs/standard/java/building-app/)
+
