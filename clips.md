@@ -22,6 +22,8 @@
 
 [Defining Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
+[Pipeline Templates with Shared Libraries](https://jenkins.io/blog/2017/10/02/pipeline-templates-with-shared-libraries/)
+
 [Docker Pipeline](https://jenkins.io/doc/book/pipeline/docker/)
 
 [More Pipeline Plugins](https://plugins.jenkins.io/workflow-aggregator)
