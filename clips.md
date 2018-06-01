@@ -51,6 +51,8 @@
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
 
+[Jenkin CPS Groovy Interpeter](https://github.com/cloudbees/groovy-cps)
+
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
