@@ -70,6 +70,8 @@
 
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
+[Forking and Pull Requests](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+
 # Android SDK
 [Android SDKManager Offline](https://androidsdkoffline.blogspot.com/p/android-sdk-build-tools.html)
 
