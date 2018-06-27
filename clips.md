@@ -1,3 +1,6 @@
+# Java
+[Java lincensing change 2018](https://www.itassetmanagement.net/2018/05/01/oracle-to-charge-for-java-from-jan-2019/?nabw=0&utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+
 # DevOps Metrics
 [DevOps teams should track these 9 metrics](https://www.datical.com/blog/9-metrics-devops-teams-tracking/)
 
