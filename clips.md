@@ -108,7 +108,7 @@
 
 [How to LoadUI from Docker](https://support.smartbear.com/readyapi/docs/loadui/distributed/agents/docker.html)
 
-[Soap UO Pro Licensing](https://support.smartbear.com/readyapi/docs/general-info/licensing/activate/floating/index.html)
+[Soap UI Pro Licensing](https://support.smartbear.com/readyapi/docs/general-info/licensing/activate/floating/index.html)
 
 # SonarQube 
 [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS)
