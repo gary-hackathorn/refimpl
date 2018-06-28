@@ -101,9 +101,14 @@
 
 # SOAP UI
 [SoapUI Pro on Docker](hthttps://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/tps://www.youtube.com/watch?v=kbThOUSZreM)
+
 [SOAP UI With Docker](https://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/)
+
 [Docker image for SOAP UI](https://hub.docker.com/r/ddavison/soapui/)
+
 [How to LoadUI from Docker](https://support.smartbear.com/readyapi/docs/loadui/distributed/agents/docker.html)
+
+[Soap UO Pro Licensing](https://support.smartbear.com/readyapi/docs/general-info/licensing/activate/floating/index.html)
 
 # SonarQube 
 [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS)
