@@ -106,7 +106,7 @@
 
 [Docker image for SOAP UI](https://hub.docker.com/r/ddavison/soapui/)
 
-[How to LoadUI from Docker](https://support.smartbear.com/readyapi/docs/loadui/distributed/agents/docker.html)
+[How to run LoadUI from Docker](https://support.smartbear.com/readyapi/docs/loadui/distributed/agents/docker.html)
 
 [Soap UI Pro Licensing](https://support.smartbear.com/readyapi/docs/general-info/licensing/activate/floating/index.html)
 
