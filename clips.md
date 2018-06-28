@@ -86,6 +86,10 @@
 # Reactive Java 
 [RXJava](https://github.com/ReactiveX/RxJava)
 
+# SOAP UI
+[SoapUI Pro on Docker](hthttps://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/tps://www.youtube.com/watch?v=kbThOUSZreM)
+[SOAP UI With Docker]()
+
 # Gradle 
 [Install including Mac](https://gradle.org/install/)
 
