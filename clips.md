@@ -25,6 +25,7 @@
 
 # DynaTrace
 [Monitor a batch job Videos](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
+
 [Creating Custom Entry Points](https://www.dynatrace.com/news/blog/easily-configure-detection-environments-custom-application-services/)
 
 # git
@@ -37,8 +38,7 @@
 # Gradle 
 [Install including Mac](https://gradle.org/install/)
 
-#SED Stream EDitor
-[Basics of SEC in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux}
+[Gradle HTTP proxy](https://stackoverflow.com/questions/5991194/gradle-proxy-configuration)
 
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
@@ -98,6 +98,9 @@
 
 # Reactive Java 
 [RXJava](https://github.com/ReactiveX/RxJava)
+
+# SED Stream EDitor
+[Basics of SEC in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux}
 
 # SOAP UI
 [SoapUI Pro on Docker](hthttps://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/tps://www.youtube.com/watch?v=kbThOUSZreM)
