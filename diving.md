@@ -13,3 +13,6 @@
 [Beginers Guide to Underwater Photography](https://clicklikethis.com/how-to-use-gopro-underwater/)
 
 [How to Use a GoPro underwater](https://clicklikethis.com/how-to-use-gopro-underwater/)
+
+# Algorithms 
+[Types Pelagic Z+ and DSTAT](https://www.simplyscuba.com/blogs/blog/algorithms-and-the-modern-diver)
