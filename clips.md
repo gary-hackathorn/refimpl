@@ -102,7 +102,7 @@
 # SED Stream EDitor
 [Basics of SEC in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux}
 
-# SOAP UI
+# SOAP UI - Ready! API
 [SoapUI Pro on Docker](hthttps://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/tps://www.youtube.com/watch?v=kbThOUSZreM)
 
 [SOAP UI With Docker](https://huddle.eurostarsoftwaretesting.com/how-to-soap-ui-with-docker-using-docker-to-execute-tests/)
@@ -112,6 +112,8 @@
 [How to run LoadUI from Docker](https://support.smartbear.com/readyapi/docs/loadui/distributed/agents/docker.html)
 
 [Soap UI Pro Licensing](https://support.smartbear.com/readyapi/docs/general-info/licensing/activate/floating/index.html)
+
+[Ready! API from Jenkins](https://support.smartbear.com/readyapi/docs/testing/integrations/ci-systems/jenkins.html)
 
 # SonarQube 
 [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS)
