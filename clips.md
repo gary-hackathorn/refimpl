@@ -115,6 +115,8 @@
 
 [Ready! API from Jenkins](https://support.smartbear.com/readyapi/docs/testing/integrations/ci-systems/jenkins.html)
 
+[Another using the Jenkins Plugin](https://support.smartbear.com/readyapi/docs/soapui/running/automating/jenkins.html)
+
 # SonarQube 
 [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS)
 
