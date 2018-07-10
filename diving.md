@@ -25,3 +25,5 @@
 # Resources
 
 [Various Resource Downloads](http://fantaseadive.com/en/resources/downloads/)
+
+[Enriched Air Dive Planning Sheet](https://www2.padi.com/mypadi/assets/0/3206/3212/3222/3308/e05a56b6-e7fc-41a1-88d2-f980b9abe6ba.pdf)
