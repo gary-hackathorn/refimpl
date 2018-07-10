@@ -20,4 +20,8 @@
 
 # Open Source Diving Log
 
-[Subsuface](https://subsurface-divelog.org)
+[Subsuface Log and Planner](https://subsurface-divelog.org)
+
+# Resources
+
+[Various Resource Downloads](http://fantaseadive.com/en/resources/downloads/)
