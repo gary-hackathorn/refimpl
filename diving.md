@@ -17,6 +17,7 @@
 # Algorithms 
 [Types Pelagic Z+ and DSTAT](https://www.simplyscuba.com/blogs/blog/algorithms-and-the-modern-diver)
 
+[Gradient Factors - Detailed Decompression Dives Explanation](https://www.diverite.com/articles/gradient-factors/)
 
 # Open Source Diving Log
 
