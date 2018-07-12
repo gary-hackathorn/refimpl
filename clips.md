@@ -82,6 +82,8 @@
 
 [GDSL with IntelliJ](https://gist.github.com/arehmandev/736daba40a3e1ef1fbe939c6674d7da8)
 
+[Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
