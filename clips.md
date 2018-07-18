@@ -84,6 +84,8 @@
 
 [Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/)
 
+[Troubleshoot Jenkins Agents connection](https://support.cloudbees.com/hc/en-us/articles/218097237-How-to-troubleshoot-JNLP-slaves-connection-issues-with-Jenkins-)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
