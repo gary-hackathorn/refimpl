@@ -104,9 +104,11 @@
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
 
-#Puppet Configuration Management
+# Puppet Configuration Management
 
 [Basic Components](https://www.digitalocean.com/community/tutorials/getting-started-with-puppet-code-manifests-and-modules)
+
+[Blog entry about Learning VM](https://puppet.com/blog/puppet-learning-vm-new-lesson-architecture)
 
 # Reactive Java 
 [RXJava](https://github.com/ReactiveX/RxJava)
