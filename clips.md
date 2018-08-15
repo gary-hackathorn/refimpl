@@ -88,6 +88,7 @@
 
 [Overriding pipeline steps](http://unethicalblogger.com/2017/08/03/overriding-builtin-steps-pipeline.html) **NOT RECOMMENDED Too Clever!**
 
+[GitHub recover a deleted branch](https://gist.github.com/jbgo/1944238)
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
