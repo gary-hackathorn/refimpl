@@ -35,4 +35,4 @@
 
 # Grand Cayman
 
-[Scotther Diving Renatl](https://www.divetech.com/scooter-diving)
+[Scooter Diving Renatl](https://www.divetech.com/scooter-diving)
