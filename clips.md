@@ -111,6 +111,8 @@
 
 [Blog entry about Learning VM](https://puppet.com/blog/puppet-learning-vm-new-lesson-architecture)
 
+[intellij and puppet](https://www.jetbrains.com/help/idea/puppet.html)
+
 # Reactive Java 
 [RXJava](https://github.com/ReactiveX/RxJava)
 
