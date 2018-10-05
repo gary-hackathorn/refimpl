@@ -91,7 +91,9 @@
 
 [Overriding pipeline steps](http://unethicalblogger.com/2017/08/03/overriding-builtin-steps-pipeline.html) **NOT RECOMMENDED Too Clever!**
 
+[Too many open files / How to find oen files for an application](https://wiki.jenkins.io/display/JENKINS/I%27m+getting+too+many+open+files+error)
 [GitHub recover a deleted branch](https://gist.github.com/jbgo/1944238)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
