@@ -3,3 +3,6 @@
 
 # Notes
 [Evernote to Apple Notes](https://www.makeuseof.com/tag/apple-notes-vs-microsoft-onenote/)
+
+# External Boot Camp
+[Create a bootable Windows 10 external drive](https://blog.macsales.com/40947-tech-tip-how-to-use-boot-camp-on-an-external-drive)
