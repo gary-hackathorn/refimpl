@@ -35,4 +35,7 @@
 
 # Grand Cayman
 
-[Scooter Diving Renatl](https://www.divetech.com/scooter-diving)
+[Scooter Diving Renatal](https://www.divetech.com/scooter-diving)
+
+# Diving in Texas
+[Texas Diving Locations] (http://www.dive-computer-wizard.com/scuba_diving_in_texas.html)
