@@ -151,3 +151,4 @@
 
 # Space 
 [Artifical Graveity - Centrifgul](http://www.spacefuture.com/archive/artificial_gravity_and_the_architecture_of_orbital_habitats.shtml)
+[Generation Ships - SiFi](http://www.sf-encyclopedia.com/entry/generation_starships)
