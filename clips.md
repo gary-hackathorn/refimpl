@@ -94,6 +94,8 @@
 [Too many open files / How to find oen files for an application](https://wiki.jenkins.io/display/JENKINS/I%27m+getting+too+many+open+files+error)
 [GitHub recover a deleted branch](https://gist.github.com/jbgo/1944238)
 
+[User Roles in Piplines](https://stackoverflow.com/questions/39725289/jenkins-2-how-to-get-user-role-role-strategy-plugin-from-jenkins-workflow)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
