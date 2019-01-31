@@ -96,6 +96,8 @@
 
 [User Roles in Piplines](https://stackoverflow.com/questions/39725289/jenkins-2-how-to-get-user-role-role-strategy-plugin-from-jenkins-workflow)
 
+[Commandline Interface Roles and Permissions](https://go.cloudbees.com/docs/cloudbees-documentation/admin-cje/cje-ux/#_command_line_interface)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
