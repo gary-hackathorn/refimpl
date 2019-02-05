@@ -98,6 +98,8 @@
 
 [Commandline Interface Roles and Permissions](https://go.cloudbees.com/docs/cloudbees-documentation/admin-cje/cje-ux/#_command_line_interface)
 
+[Pipeline based security for users](https://stackoverflow.com/questions/46894075/job-based-security-per-branch-jenkins-multibranch-pipeline/47514614#47514614)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
