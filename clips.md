@@ -100,6 +100,8 @@
 
 [Pipeline based security for users](https://stackoverflow.com/questions/46894075/job-based-security-per-branch-jenkins-multibranch-pipeline/47514614#47514614)
 
+[Slave Permissions](https://stackoverflow.com/questions/33835865/how-to-setup-jenkins-slave-permission)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
