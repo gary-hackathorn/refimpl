@@ -106,6 +106,8 @@
 
 [List of Groups Pipeline Example](https://github.com/cloudbees/jenkins-scripts/blob/master/RBAC_Example.groovy)
 
+[Example Pipeline scripts](https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
