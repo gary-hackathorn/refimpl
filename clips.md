@@ -101,7 +101,10 @@
 [Pipeline based security for users](https://stackoverflow.com/questions/46894075/job-based-security-per-branch-jenkins-multibranch-pipeline/47514614#47514614)
 
 [Slave Permissions](https://stackoverflow.com/questions/33835865/how-to-setup-jenkins-slave-permission)
+
 [Node Based Roles](https://wiki.jenkins.io/plugins/servlet/mobile?contentId=46335825#content/view/46335825)
+
+[List of Groups Pipeline Example](https://github.com/cloudbees/jenkins-scripts/blob/master/RBAC_Example.groovy)
 
 # Markdown 
 
