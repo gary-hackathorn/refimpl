@@ -39,3 +39,5 @@
 
 # Diving in Texas
 [Texas Diving Locations] (http://www.dive-computer-wizard.com/scuba_diving_in_texas.html)
+
+[Hamilton Pool - Near Austin/Hill Country](https://americanupbeat.com/story/the-most-bizarre-places-to-visit-in-all-of-north-america/16/)
