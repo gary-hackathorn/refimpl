@@ -106,6 +106,8 @@
 
 [List of Groups Pipeline Example](https://github.com/cloudbees/jenkins-scripts/blob/master/RBAC_Example.groovy)
 
+[LDAP Groups for user]https://stackoverflow.com/questions/24279864/jenkins-how-to-get-a-users-ldap-groups-in-groovy-script)
+
 [Example Pipeline scripts](https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples)
 
 # Markdown 
