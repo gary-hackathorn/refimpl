@@ -110,6 +110,8 @@
 
 [Example Pipeline scripts](https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples)
 
+[Active Choice Plugin](https://wiki.jenkins.io/display/JENKINS/Active+Choices+Plugin)
+
 # Markdown 
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
