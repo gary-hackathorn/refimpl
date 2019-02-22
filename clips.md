@@ -111,6 +111,7 @@
 [Example Pipeline scripts](https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples)
 
 [Active Choice Plugin](https://wiki.jenkins.io/display/JENKINS/Active+Choices+Plugin)
+[Sample](https://technology.amis.nl/2018/09/16/jenkins-2-0-pipeline-scripting-active-parameters-for-scm/)
 
 # Markdown 
 
