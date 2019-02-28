@@ -142,6 +142,9 @@
 # Reactive Java 
 [RXJava](https://github.com/ReactiveX/RxJava)
 
+# Release Managemet
+[Build in Jenkins and Release with TFS](https://www.youtube.com/watch?v=ZC4hWYqdP_o)
+
 # SED Stream EDitor
 [Basics of SEC in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux}
 
