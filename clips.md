@@ -127,6 +127,8 @@
 
 [Assembly Plugin - Multiple Assemblies](https://maven.apache.org/plugins/maven-assembly-plugin/usage.html#Configuration)
 
+[Multi Module Tutorial](https://www.baeldung.com/maven-multi-module)
+
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
