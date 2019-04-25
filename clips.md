@@ -43,6 +43,10 @@
 
 [Gradle HTTP proxy](https://stackoverflow.com/questions/5991194/gradle-proxy-configuration)
 
+[Gradle Plugins Tutorial](https://docs.gradle.org/current/userguide/custom_plugins.html)
+
+[Gradle Plugin Example](https://github.com/jonathanhood/gradle-plugin-example)
+
 # Groovy
 [Groovy Cookbook](http://grails.asia/groovy-map-tutorial)
 
