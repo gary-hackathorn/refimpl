@@ -38,6 +38,8 @@
 
 [Forking and Pull Requests](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
+[Workflow and GitOps](https://www.weave.works/blog/how-to-create-gitops-pipelines-with-github-actions-and-weave-cloud)
+
 # Gradle 
 [Install including Mac](https://gradle.org/install/)
 
