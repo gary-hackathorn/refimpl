@@ -8,4 +8,7 @@
 [Create a bootable Windows 10 external drive](https://blog.macsales.com/40947-tech-tip-how-to-use-boot-camp-on-an-external-drive)
 
 # Generate a QR code for WIFI
-[QR Code](https://cweiske.de/tagebuch/wifi-config-qrcode.htm)
+[QR Code for WiFi](https://cweiske.de/tagebuch/wifi-config-qrcode.htm)
+
+[Various QR Codes](https://github.com/zxing/zxing/wiki/Barcode-Contents#wifi-network-config-android)
+
