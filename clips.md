@@ -135,6 +135,10 @@
 
 [Multi Module Tutorial](https://www.baeldung.com/maven-multi-module)
 
+[Maven Archetypes](https://howtodoinjava.com/maven/maven-custom-archetype/)
+
+[Maven Archetypes and local repo](https://stackoverflow.com/questions/36473481/using-custom-properties-in-your-own-maven-archetype)
+
 # MTG
 
 [Pirate Deck  Black-Red and Blue-Red](http://magic.tcgplayer.com/db/article.asp?ID=14175&writer=Seth+Manfield&articledate=9-20-2017) by Seth Manfield
