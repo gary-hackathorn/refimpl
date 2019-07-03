@@ -12,3 +12,4 @@
 
 [Various QR Codes](https://github.com/zxing/zxing/wiki/Barcode-Contents#wifi-network-config-android)
 
+Saved from VS Code on Pinnacle Machine
