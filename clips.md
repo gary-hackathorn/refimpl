@@ -26,6 +26,9 @@
 
 [The Ten Commandments of Continuous Delivery Video](http://join.cloudbees.com/e/272242/watch-v-fD3P51Yv6so/78l7f/67567434)
 
+# Dot Net
+[Getting staered with C# and Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
+
 # DynaTrace
 [Monitor a batch job Videos](https://answers.dynatrace.com/questions/125630/how-to-monitor-specific-batch-job-monitor.html)
 
