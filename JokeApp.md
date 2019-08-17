@@ -5,7 +5,7 @@ From the Udemy cour Spring Framework 5:Beginner to Guru
 ### 1. Create Sring Boot project from Spring Initializr
 Select Web and Thymleleaf
 
-### 2. Add Dependency guru.psringframework:chcuk-norris-for-actuator:0,0,2
+### 2. Add Dependency guru.psringframework:chcuk-norris-for-actuator:0.0.2
 
 ### 3. Create service to return joke string from ChuckNorrisQuotes.getRandomQuote
 
